@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Joe Mama's Resume</title>
+  </head>
+  <body>
+  <center> 
+ <h1>Joe Mama</h1>
+    <p>Email: Joemama2000@email.com</p>
+    <p>Phone: 122-1223-4754</p>
+  <head>
+  <body>
+	<h1>About Me</h1>
+    <p>I am a responsible student with good judgment, time management and a flexible schedule. Aiming to leverage my abilities to successfully fill the vacancy at your company.</p>
+    <p>Frequently praised as hardworking by my peers, I can be relied upon to learn new things and help your company achieve its goals.</p>
+</center>
+ <head>
+  <body>
+	<h1>Me</h1>
+
+<div style="display: inline-block;">
+  <img src="https://avatars.akamai.steamstatic.com/0b859d1f1da8414929a08ab13556add6af82de5f_full.jpg" width="400" height="400" style="margin-left: 1000px;">
+</div>
+
+</div>
+    <h2>Education</h2>
+    <ul>
+
+      <li>Bachelor's Degree in Computer Science, Florida state University, 2015-2019</li>
+      <li>Master's Degree in Business Administration, Duke University, 2019-2021</li>
+    </ul>
+   <ul>
+				  
+
+      <li>Team Building</li>			    <li> positive attitude</li>
+
+      <li>goal oriented </li>			     <li>Team leadership</li> 
+
+      <li> Adobe premire pro editing skills </li>
+   
+
+
+
+
+
+
+
+
+
+
+ <h2>Work Experience</h2>
+    <ul>
+      <li>Profesional Waterboy 2023-present</li>
+      <li>poop scooper 2019-2021</li>
+    </ul>
+    <h2>Skills</h2>
+    <ul>
+
+    </ul>
+    <h2>refrences<h2>
+	<li>Bova Deees: (031-204-2312)</li>
+	<li>Aneed Seamen(192-909-2200)</li>
+	<li>Ben Dover(922-393-1099)</li>
+
+  </body>
+</html>
