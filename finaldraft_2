@@ -11,13 +11,15 @@
     <p>Phone: 122-1223-4754</p>
   <head>
   <body>
+
+<div>
 	<h1>About Me</h1>
     <p>I am a responsible student with good judgment, time management and a flexible schedule. Aiming to leverage my abilities to successfully fill the vacancy at your company.</p>
     <p>Frequently praised as hardworking by my peers, I can be relied upon to learn new things and help your company achieve its goals.</p>
 </center>
  <head>
   <body>
-	<h1>Me</h1>
+	<h1>My photo ------> </h1>
 
 <div style="display: inline-block;">
   <img src="https://avatars.akamai.steamstatic.com/0b859d1f1da8414929a08ab13556add6af82de5f_full.jpg" width="400" height="400" style="margin-left: 1000px;">
@@ -31,7 +33,7 @@
       <li>Master's Degree in Business Administration, Duke University, 2019-2021</li>
     </ul>
    <ul>
-				  
+			 <h2>Skills</h2>	  
 
       <li>Team Building</li>			    <li> positive attitude</li>
 
@@ -54,14 +56,16 @@
       <li>Profesional Waterboy 2023-present</li>
       <li>poop scooper 2019-2021</li>
     </ul>
-    <h2>Skills</h2>
-    <ul>
+
+
 
     </ul>
+  <center>
     <h2>refrences<h2>
-	<li>Bova Deees: (031-204-2312)</li>
-	<li>Aneed Seamen(192-909-2200)</li>
-	<li>Ben Dover(922-393-1099)</li>
+	Bova Deees: (031-204-2312)
+	Aneed Seamen(192-909-2200)
+	Ben Dover(922-393-1099)
 
   </body>
 </html>
+</div>
